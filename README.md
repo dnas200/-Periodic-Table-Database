@@ -33,19 +33,19 @@ Execute the script with the following command:
 ### Examples
 
 ```bash
-./element_lookup.sh 1
+./element.sh 1
 ```
 
 or
 
 ```bash
-./element_lookup.sh H
+./element.sh H
 ```
 
 or
 
 ```bash
-./element_lookup.sh Hydrogen
+./element.sh Hydrogen
 ```
 
 ### Output
